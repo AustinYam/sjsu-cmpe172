@@ -1,0 +1,2 @@
+[mywebserver]
+98.207.108.851 ansible_ssh_private_key_file=/Documents/Github/sjsu-cmpe172/ansible/ansible_server.pem
